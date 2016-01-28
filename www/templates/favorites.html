@@ -1,0 +1,23 @@
+<ion-view view-title="Favorites List">
+
+<div class="bar bar-subheader item-input-inset bar-light">
+  <label class="item-input-wrapper">
+    <i class="icon ion-search placeholder-icon"></i>
+    <input type="search" ng-model="query" placeholder="Search">
+  </label>
+</div>
+<ion-content  class="has-subheader">
+  <!-- <button class="button" ng-click="saveData('test this data')">Save Button</button>
+ -->  <button class="button" ng-click="loadFavorite()">Most Recent Favorite</button>
+</ion-content>
+</ion-view>
+
+
+<!-- References about setting up LocalStorage with Angular/Ionic:
+
+http://learn.ionicframework.com/formulas/localstorage/
+https://blog.nraboy.com/2014/12/use-ngstorage-angularjs-local-storage-needs/
+https://forum.ionicframework.com/t/local-storage-objects/12352/2
+http://stackoverflow.com/questions/3357553/how-to-store-an-array-in-localstorage
+https://www.youtube.com/watch?v=T2UAtb8zAms
+ -->

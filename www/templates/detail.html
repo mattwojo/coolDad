@@ -1,0 +1,18 @@
+<ion-header-bar class="bar-positive">
+  <h2 class="title">More Info</h2>
+</ion-header-bar>
+
+<ion-view>
+  <ion-content>
+    <ion-list class="list-inset">
+      <ion-item class="item-text-wrap"
+        ng-repeat="item in activities | filter: { shortname: whichactivity }">
+          <img class="activityImg" ng-src="img/{{item.shortname}}.jpg"
+            alt="{{ item.name }} Photo">
+          <h2>{{ item.type }}</h2>
+          <h3>{{ item.name }}</h3>
+          <p>{{ item.desc }}</p>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>

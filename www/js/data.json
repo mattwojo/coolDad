@@ -1,0 +1,136 @@
+{
+  "calendar": [
+    {
+      "title": "Winter Events in Seattle",
+      "description": "We know the cold, dark days of winter can be challenging with little ones, so we’ve put together a list of events to keep you and your crew free from the winter blues.",
+      "month": "January",
+      "schedule": [
+        {
+          "dates": "January 1",
+          "shortname": "state_park",
+          "artist": "WA State Parks Free on New Year's Day",
+          "room": "Multiple Locations",
+          "description": "State Park Free Days include New Year’s Day! Spend the day exploring one of the 140 Washington State Parks for free.",
+          "title": "WA State Parks Free on New Year's Day"
+        },
+        {
+          "dates": "January 1, 2, 3",
+          "shortname": "Festivals_of_Light",
+          "artist": "Seattle Children's Museum",
+          "room": "Children's Museum at Seattle Center",
+          "description": "Festivals of Light explores a winter holiday celebration each week from the perspective of a family. Children will explore the food, decorations, games, activities and music associated with each holiday as they step into a household amidst their celebration. Each week, the kid-sized dwelling space of a family changes to highlight a new festival including their kitchen and living room, a family craft table and a reading space. Festivals of Light will include Diwali, Christmas Around the World, Hanukkah, Santa Lucia, Kwanzaa, Pasko, Las Posadas and Loi Krathong.",
+          "title": "Festival of Light"
+        }, {
+          "dates": "January 1 - 20",
+          "shortname": "ice_skating",
+          "artist": "Seattle Center Fisher Pavilion",
+          "room": "Fisher Pavilion at Seattle Center",
+          "description": "Glide into the season with the greatest of ease. $7 Adult or $5 Child, includes skate rental.",
+          "title": "Family Ice Skating"
+        },{
+          "dates": "January 15, 16, 17",
+          "shortname": "sci_fi",
+          "artist": "Science-Fiction Convention at Hilton Seattle Airport",
+          "room": "Hilton Seattle Airport",
+          "description": "Rustycon is a science-fiction and fantasy convention that focuses on literature, science, art, costumes, and gaming.",
+          "title": "Science-Fiction Convention at Hilton Seattle Airport"
+        }
+      ]
+    }, {
+      "month": "February",
+      "schedule": [
+        {
+          "dates": "February 12, 13, 14",
+          "shortname": "globetrotters",
+          "artist": "Harlem Globetrotters",
+          "room": "Kent, Seattle, Everett",
+          "description": "The Harlem Globetrotters demonstrate ball handling wizardry, rim-rattling dunks, trick shots, and comedy.",
+          "title": "Harlem Globetrotters Family Basketball Show"
+        },{
+          "dates": "February 13, 14, 15",
+          "shortname": "northwest_trek",
+          "artist": "Kids weekend at Northwest Trek",
+          "room": "Eatonville",
+          "description": "Up to 4 kids age 0-12 are free with each paying adult during Kids ‘n’ Critters at Northwest Trek Wildlife Park, which includes activities and crafts.",
+          "title": "Kids weekend at Northwest Trek"
+        },{
+          "dates": "February 25, 26, 27, 28",
+          "shortname": "bluegrass",
+          "artist": "Bluegrass Festival",
+          "room": "Hyatt Regency Bellevue",
+          "description": "Wintergrass includes dozens of acts on four stages, plus workshops and impromptu jams.",
+          "title": "Bluegrass festival"
+        }
+      ]
+    }, {
+      "month": "March",
+      "schedule": [
+        {
+          "dates": "March 5 - 6",
+          "shortname": "dollhouse",
+          "artist": "Dollhouse & miniature show",
+          "room": "DoubleTree Suites, Southcenter, Seattle",
+          "description": "Enjoy a wide variety of dollhouses, miniature furniture, workshops, exhibits, vendors, and more.",
+          "title": "Dollhouse & Miniature Show"
+        },{
+          "dates": "March 12",
+          "shortname": "dinosaur",
+          "artist": "Dinosaur day",
+          "room": "University of Washington Burke Museum",
+          "description": "Touch fossils and talk to paleontologists about dinosaurs at Dino Day.",
+          "title": "Dinosaur day"
+        },{
+          "dates": "March 13",
+          "shortname": "sciencefair",
+          "artist": "Science and engineering fair",
+          "room": "Bellevue College Gymnasium",
+          "description": "View high school science projects and watch scientists award prizes.",
+          "title": "Science and Engineering Fair"
+        }
+      ]
+    }
+  ],
+  "activities": [
+    {
+      "desc": "Located on Seattle’s wonderful waterfront and recently refurbished the aquarium is a good stop for 90 minutes to 2 hours. (Some visitors arrive expecting a lot and leave disappointed.) Kids can touch starfish and sea anemones and (with a bit of luck) see different animals during feeding dates. The scuba divers that swim in a large tank – and do show and tell wiith different sea life – are a hit with many kids. ",
+      "shortname": "Seattle_Aquarium",
+      "name": "Seattle Aquarium",
+      "type": "Seattle, Indoors"
+    },{
+      "desc": "Most kids love to play in the dirt. Planting seeds in the spring, watching them grow through the summer, and learning an appreciation for where fruits and vegetables come from may help your kids enjoy eating them more. Engage your child more through designating them their own plot to garden, let them help choose the seeds, give them serious tools (not cheap plastic), and don’t be afraid to cheat a little (helping out behind the scenes). ",
+      "shortname": "Plant_a_Garden",
+      "name": "Plant a Garden",
+      "type": "Hobby, Outdoors"
+    },{
+      "desc": "This is a great zoo (within a relaxed and beautifully laid-out park) so be prepared to spend a good part of a day here. Elephants, monkeys, gorillas, Komodo dragons and giraffes are the big draws with my kids – but there’s so much here you could easily have a totally different greatest hits. There’s also a fun indoor climbing playground for babies, toddlers and pre-schoolers. Several restaurants within the zoo are decent. You can also bring your own food and have a picnic on one of many grassy areas.",
+      "shortname": "Woodland_Park_Zoo",
+      "name": "Woodland Park Zoo",
+      "type": "Seattle, Indoors, Outdoors"
+    },{
+      "desc": "Recently relocated and completely refurbished, this is one of Seattle’s best museums and a fantastic destination for both kids and adults. The exhibits are hands-on, detail rich, and very well done. The museum charts the history of the region though the development of major companies and industries. Located next to Lake Union and easily accessible by the South Lake Union Trolley. There’s a good restaurant within the museum. Children 14 and under are free. ",
+      "shortname": "MOHAI",
+      "name": "Museum of History and Industry",
+      "type": "Seattle, Indoors"
+    },{
+      "desc": "Hiking with kids is a great way to get them connected to the outdoors at a young age. Picking a trail that has some features, like a lake, stream, waterfall, etc. will keep kids occupied and give them a goal to reach. Be sure it's not too challenging at first, and plan lots of stops, or this activity could be ruined forever. Look for signs of wildlife (scat, bird holes in trees, fur), identify wildflowers, organize a scavenger hunt and have them find things are bumpy, smelly, small, big, living, wet... plan ways to engage them along the way. A few good hiking destinations around Seattle include: Discovery Park, Lincoln Park, Cedar River Watershed, Mercer Slough in Bellevue, Franklin Falls at Snoqalmie Pass, Deception Pass State Park, or Skagit Wildlife Area. ",
+      "shortname": "Hike",
+      "name": "Go for a hike on a local trail",
+      "type": "Seattle, Outdoors"
+    },{
+      "desc": "Teach you little the fine art of enjoying the wind… learning how to fly a kite has to be on every child’s bucket list of things to do with dad. Of course the most important factors when flying a kite are finding a wide open space and the right kite to fly… a consistently windy day helps too. In Seattle, a few top kite destinations include: Magnuson Park, Gas Works Park, Carkeek Park, Alki Beach or Golden Gardens. Find a kite at a local toy store, try Top Ten Toys or Magic Mouse, a department store like Target or Fred Meyer, order online for a better selection, or just make your own. ",
+      "shortname": "Fly_a_Kite",
+      "name": "Learn to fly a kite at a local park",
+      "type": "Seattle, Outdoors"
+    },{
+      "desc": "A museum full of hands on science fun. Great for kids aged 3 and up. (There’s a special play area for toddlers.) The museum has become a bit rundown and in need of some updating, but the kids notice the engaging exhibits, not the cracking paint. The Tropical Butterfly House and IMAX theater are probably the highlights. Located on the grounds of Seattle Center where there are lots of places to eat. You can easily take the Monorail here from downtown Seattle.",
+      "shortname": "Pacific_Science_Center",
+      "name": "Seattle’s Pacific Science Center Museum",
+      "type": "Seattle, Indoors"
+    },{
+      "desc": "A great museum for all ages, you’ll see airplanes spanning the first 100 plus years of flight. Get a look inside a Concorde, the first 747 ever built, the original Air Force One, fighters, bombers, and, well, pretty much anything that has wings or propellers. There’s a Kids Flight Zone, several flight simulators, and always changing featured exhibits. The museum is located 10 minutes by car south of downtown Seattle. There’s lots of free parking available.",
+      "shortname": "Museum_of_Flight",
+      "name": "Museum of Flight",
+      "type": "Seattle, Indoors"
+    }
+  ]
+}

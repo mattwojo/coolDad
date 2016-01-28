@@ -1,0 +1,110 @@
+/* Empty. Add your own CSS if you like */
+
+body {
+  cursor: url('http://ionicframework.com/img/finger.png');
+  font-family: 'Oswald', sans-serif;
+}
+
+.star>.item-content {
+  background-color: #EEE8D6 !important;
+}
+
+.splash {
+  background: url(../img/Flying_a_Kite.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.branding {
+  width: 50%;
+  max-width: 35em;
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+  line-height: 1.25;
+}
+
+.tagline {
+  font-family: 'Amatic SC', cursive;
+  font-size: calc(58px + 1.25vw);
+  font-weight: 900;
+  color: #417D9A;
+  text-shadow: 3px 3px aliceblue;
+  float: left;
+}
+
+.branding p {
+  margin-top: 10px;
+  font-size: 1.3rem;
+  font-weight: 400;
+  color: gray;
+  float: left;
+}
+
+.item-divider {
+  background-color: #EEE8D6;
+}
+
+.bar-positive, .tabs-positive>.tabs {
+  background-color: #417D9A !important;
+  border-color:  #417D9A;
+}
+
+.item-thumbnail-left img {
+  border-radius: 10px;
+}
+
+.item h3 {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #417D9A;
+}
+
+.dayhighlight {
+  background-color: #9EC6DE;
+  border-top: 20px solid #417D9A;
+}
+
+.dayhighlight h2 {
+  color: #417D9A;
+  font-size: 2rem;
+  font-weight: 200;
+}
+
+.activityImg {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+
+@media only screen and (min-width: 900px) {
+    .branding {
+      max-width: none;
+    }
+    .splash {
+      background-size: contain;
+    }
+    .tagline {
+      font-size: calc(8em + 1.25vw);
+    }
+    .branding p {
+      font-size: 3rem;
+    }
+    .tabs {
+      height: 15%;
+    }
+    .tab-item {
+      max-width: 10em;
+    }
+    .tab-item .icon {
+      font-size: 50px;
+      height: 50px;
+      margin-top: 10px;
+    }
+    .tabs-icon-top > .tabs .tab-item {
+      font-size: 2em;
+      line-height: 50px;
+    }
+}
